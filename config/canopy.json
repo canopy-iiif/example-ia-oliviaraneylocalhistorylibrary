@@ -1,0 +1,4 @@
+{
+  "collection": "https://iiif.archive.org/iiif/3/oliviaraneylocalhistorylibrary/collection.json",
+  "metadata": ["subject", "date", "creator"]
+}
